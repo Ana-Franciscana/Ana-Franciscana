@@ -46,6 +46,19 @@
 
 ---
 
+
+## 📊 Minhas estatísticas (se algum card falhar, há fallback)
+<!-- principal: github-readme-stats (pode falhar se o serviço tiver problemas) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana-Franciscana&show_icons=true&theme=react)
+
+<!-- linguagens principais -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Franciscana&layout=compact&theme=react)
+
+<!-- fallback bem confiável -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ana-Franciscana&theme=gruvbox)
+
+---
+
 ## 📊 Minhas estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana-Franciscana&show_icons=true&theme=softpink) 
 
@@ -57,22 +70,3 @@
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F78FA7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-francisca-a8b847321)
-
-
-
-
-## 📊 Minhas estatísticas
-<!-- principal: github-readme-stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana-Franciscana&show_icons=true&theme=react) 
-
-<!-- linguagens principais -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Franciscana&layout=compact&theme=react)
-
-<!-- fallback bem confiável -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ana-Franciscana&theme=gruvbox)
-
----
-
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-francisca-a8b847321)
----
