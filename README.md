@@ -51,9 +51,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Franciscana&layout=compact&theme=react&title_color=F78FA7)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ana-Franciscana&theme=gruvbox)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ana-Franciscana&theme=softpink)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ana-Franciscana&theme=gruvbox&title_color=F78FA7)
 
 ---
 
