@@ -49,7 +49,9 @@
 ## 📊 Minhas estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana-Franciscana&show_icons=true&theme=react&title_color=F78FA7)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Franciscana&layout=compact&theme=softpink)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Franciscana&layout=compact&theme=react&title_color=F78FA7)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ana-Franciscana&theme=gruvbox)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Ana-Franciscana&theme=softpink)
 
