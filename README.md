@@ -46,21 +46,8 @@
 
 ---
 
-
-## 📊 Minhas estatísticas (se algum card falhar, há fallback)
-<!-- principal: github-readme-stats (pode falhar se o serviço tiver problemas) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana-Franciscana&show_icons=true&theme=react)
-
-<!-- linguagens principais -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Franciscana&layout=compact&theme=react)
-
-<!-- fallback bem confiável -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ana-Franciscana&theme=gruvbox)
-
----
-
 ## 📊 Minhas estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana-Franciscana&show_icons=true&theme=softpink) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana-Franciscana&show_icons=true&theme=react&title_color=F78FA7)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Franciscana&layout=compact&theme=softpink)
 
