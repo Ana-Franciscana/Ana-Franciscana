@@ -1,7 +1,7 @@
 # Olá, eu sou a Ana 🌸
 
 <p align="center">
-  <img width="1312" height="295" alt="banner_github" src="https://github.com/user-attachments/assets/1d79540d-25aa-4a42-a4f6-93f9a21274c0" />
+  <img width="1584" height="396" alt="banner linkedin (1)" src="https://github.com/user-attachments/assets/3ce1460d-ec56-4bdc-b0e8-25787d3a08d9" />
 </p>
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=28&pause=2000&color=F78FA7&width=650&lines=Ana+Francisca+%7C+Estudante+de+ADS;Desenvolvimento+Web+|+Python+•+Java+•+Node.js)
