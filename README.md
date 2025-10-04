@@ -1,6 +1,6 @@
 # Olá, eu sou a Ana 🌸
 
-![Banner](YOUR_BANNER_URL)
+![Banner]("C:\Users\MEUPC\Downloads\banner_github.png")
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=28&pause=2000&color=F78FA7&width=650&lines=Ana+Francisca+%7C+Estudante+de+ADS;Desenvolvimento+Web+|+Python+•+Java+•+Node.js)
 
